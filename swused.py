@@ -1,3 +1,8 @@
+###
+###This script will give you the products used by a company
+###
+
+
 from bs4 import BeautifulSoup as bs
 import requests
 

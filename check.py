@@ -1,3 +1,6 @@
+###
+###This script scrapes the customers' names and stores it in abc.txt
+
 import requests
 import numpy as np
 def get_comp(request):
