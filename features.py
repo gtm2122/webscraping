@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup as bs
 import requests
 import pickle
 import re
+from swused import get_products
 def get_data(company):
  #print company
  company.replace("-","")
@@ -46,6 +47,8 @@ def get_data(company):
   comp_dict = {}
   comp_dict['quickfacts']={}
   comp_dict['tags']={}
+  comp_dict['products']={}
+  comp_dict['products'] = (get_products(company))
   #print comp_dict
   #print "HEREHRER"
   for i in range(0,9):
@@ -74,6 +77,7 @@ companies_dict = {}
 
 for i in range(0,120):
  companies_dict[companies[i]]={}
+ companies_dict[companies[i]]['products']={}
  #companies[str(i)]['name']={}
  #companies[str(i)]['tags']={} 
  #companies[str(i)]['quickfacts']={}
@@ -83,10 +87,7 @@ for i in range(0,120):
 for i in range(0,120):
  if not(get_data(companies[i])==0):
   companies_dict[companies[i]]=(get_data(companies[i]))
-# print(companies_dict)
-
  else:
-  print companies[i]
   count = count + 1
 
 with open ('adroll_customers.txt','wb') as f:  
@@ -94,7 +95,7 @@ with open ('adroll_customers.txt','wb') as f:
 
 with open('adroll_customers.txt', 'rb') as g:
  b = pickle.loads(g.read())
-print b['salesloft']
+#print b['salesloft']['quickfacts']['Acquisitions']
 
 #print companies_dict
 print count
