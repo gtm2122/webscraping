@@ -63,39 +63,41 @@ def get_data(company):
   return comp_dict
  else:
   return 0
+
+if __name__ == "__main__":
  
-f = open('abc.txt' , 'r')
+ f = open('abc.txt' , 'r')
 
-with open('abc.txt') as k:
- companies = k.read().splitlines()
-#print "companies \n"
-num_comp=len(companies)
-count = 0
+ with open('abc.txt') as k:
+  companies = k.read().splitlines()
+ #print "companies \n"
+ num_comp=len(companies)
+ count = 0
 
-companies_dict = {}
+ companies_dict = {}
 
 
-for i in range(0,120):
- companies_dict[companies[i]]={}
- companies_dict[companies[i]]['products']={}
- #companies[str(i)]['name']={}
- #companies[str(i)]['tags']={} 
- #companies[str(i)]['quickfacts']={}
+ for i in range(0,120):
+  companies_dict[companies[i]]={}
+  companies_dict[companies[i]]['products']={}
+  #companies[str(i)]['name']={}
+  #companies[str(i)]['tags']={} 
+  #companies[str(i)]['quickfacts']={}
  
-#print companies_dict
+ #print companies_dict
 
-for i in range(0,120):
- if not(get_data(companies[i])==0):
-  companies_dict[companies[i]]=(get_data(companies[i]))
- else:
-  count = count + 1
+ for i in range(0,120):
+  if not(get_data(companies[i])==0):
+   companies_dict[companies[i]]=(get_data(companies[i]))
+  else:
+   count = count + 1
 
-with open ('adroll_customers.txt','wb') as f:  
- pickle.dump(companies_dict,f)
+ with open ('adroll_customers.txt','wb') as f:  
+  pickle.dump(companies_dict,f)
 
-with open('adroll_customers.txt', 'rb') as g:
- b = pickle.loads(g.read())
-#print b['salesloft']['quickfacts']['Acquisitions']
+ with open('adroll_customers.txt', 'rb') as g:
+  b = pickle.loads(g.read())
+ print "Data stored in adroll_customers.txt as a dictionary with the keys 'tags','products' and 'quickfacts'"
 
-#print companies_dict
-print count
+ #number of companies that couldnt be processed
+ print count
