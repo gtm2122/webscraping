@@ -1,0 +1,1443 @@
+(dp0
+S'kim-doyal'
+p1
+(dp2
+sS'trey-heath'
+p3
+(dp4
+sS'eatstreet'
+p5
+(dp6
+sS'scandiweb'
+p7
+(dp8
+sS'kitedesk'
+p9
+(dp10
+S'quickfacts'
+p11
+(dp12
+S'Acquisitions'
+p13
+S'0'
+p14
+sS'Growth score'
+p15
+S'294'
+p16
+sS'Mindshare score'
+p17
+S'229'
+p18
+sS'Employees'
+p19
+S'31'
+p20
+sS'Last funding'
+p21
+S'5 months ago'
+p22
+sS'Founded'
+p23
+S'2011'
+p24
+sS'Location'
+p25
+S'Tampa'
+p26
+sS'Total funding'
+p27
+S'$6M'
+p28
+sS'Stage'
+p29
+S'Pre-Series A'
+p30
+ssS'tags'
+p31
+(lp32
+S'B2B'
+p33
+aS'Direct Sales'
+p34
+aS'SaaS'
+p35
+aS'Cloud Computing'
+p36
+aS'Enterprise Software'
+p37
+aS'Finance'
+p38
+aS'Human Resources Hr'
+p39
+aS'Marketing'
+p40
+aS'Real Estate'
+p41
+assS'quri'
+p42
+(dp43
+sS'eshares'
+p44
+(dp45
+sS'yofitness'
+p46
+(dp47
+sS'asiainspection'
+p48
+(dp49
+sS'beautylish'
+p50
+(dp51
+g11
+(dp52
+S'Acquisitions'
+p53
+S'0'
+p54
+sS'Growth score'
+p55
+S'157'
+p56
+sS'Mindshare score'
+p57
+S'95'
+p58
+sS'Employees'
+p59
+S'64'
+p60
+sS'Last funding'
+p61
+S'3 years ago'
+p62
+sS'Founded'
+p63
+S'2010'
+p64
+sS'Location'
+p65
+S'Bay Area'
+p66
+sS'Total funding'
+p67
+S'$9M'
+p68
+sS'Stage'
+p69
+S'Pre-Series A'
+p70
+ssg31
+(lp71
+S'B2C'
+p72
+aS'E-Commerce'
+p73
+aS'Fashion'
+p74
+aS'Mobile'
+p75
+assS'socrata'
+p76
+(dp77
+g11
+(dp78
+S'Acquisitions'
+p79
+S'0'
+p80
+sS'Growth score'
+p81
+S'291'
+p82
+sS'Mindshare score'
+p83
+S'142'
+p84
+sS'Employees'
+p85
+S'167'
+p86
+sS'Last funding'
+p87
+S'2 years ago'
+p88
+sS'Founded'
+p89
+S'2007'
+p90
+sS'Location'
+p91
+S'Seattle'
+p92
+sS'Total funding'
+p93
+S'$55M'
+p94
+sS'Stage'
+p95
+S'Series C'
+p96
+ssg31
+(lp97
+S'B2B'
+p98
+aS'SaaS'
+p99
+aS'Analytics'
+p100
+aS'Cloud Computing'
+p101
+aS'Enterprise Software'
+p102
+aS'Government'
+p103
+assS'mayvenn'
+p104
+(dp105
+sS'app-annie'
+p106
+(dp107
+sS'click-perform'
+p108
+(dp109
+sS'social-mafia'
+p110
+(dp111
+sS'zapstitch'
+p112
+(dp113
+sS'the-social-edge'
+p114
+(dp115
+sS'snapapp'
+p116
+(dp117
+sS'conversionex'
+p118
+(dp119
+sS'hiringthing'
+p120
+(dp121
+sS'lawrence-schiller'
+p122
+(dp123
+sS'zemanta'
+p124
+(dp125
+sS'red-sky'
+p126
+(dp127
+sS'invoate'
+p128
+(dp129
+sS'praber'
+p130
+(dp131
+sS'epoxy'
+p132
+(dp133
+sS'lever'
+p134
+(dp135
+sS'webmerge'
+p136
+(dp137
+sS'flint-group-1'
+p138
+(dp139
+sS'pazarlamasyon'
+p140
+(dp141
+sS'tawipay'
+p142
+(dp143
+sS'salesloft'
+p144
+(dp145
+g11
+(dp146
+S'Acquisitions'
+p147
+S'0'
+p148
+sS'Growth score'
+p149
+S'686'
+p150
+sS'Mindshare score'
+p151
+S'525'
+p152
+sS'Employees'
+p153
+S'116'
+p154
+sS'Last funding'
+p155
+S'a year ago'
+p156
+sS'Founded'
+p157
+S'2011'
+p158
+sS'Location'
+p159
+S'Atlanta'
+p160
+sS'Total funding'
+p161
+S'$10M'
+p162
+sS'Stage'
+p163
+S'Series A'
+p164
+ssg31
+(lp165
+S'B2B'
+p166
+aS'Lead Generation'
+p167
+aS'SaaS'
+p168
+aS'Enterprise Software'
+p169
+aS'Finance'
+p170
+aS'Marketing'
+p171
+assS'emotient'
+p172
+(dp173
+sS'krossover'
+p174
+(dp175
+g11
+(dp176
+S'Acquisitions'
+p177
+S'0'
+p178
+sS'Growth score'
+p179
+S'127'
+p180
+sS'Mindshare score'
+p181
+S'102'
+p182
+sS'Employees'
+p183
+S'239'
+p184
+sS'Last funding'
+p185
+S'5 months ago'
+p186
+sS'Founded'
+p187
+S'2009'
+p188
+sS'Location'
+p189
+S'New York'
+p190
+sS'Total funding'
+p191
+S'$28M'
+p192
+sS'Stage'
+p193
+S'Series B'
+p194
+ssg31
+(lp195
+S'B2B'
+p196
+aS'B2C'
+p197
+aS'Analytics'
+p198
+aS'Entertainment'
+p199
+aS'Gaming'
+p200
+aS'Mobile'
+p201
+assS'welab'
+p202
+(dp203
+sS'health-sherpa'
+p204
+(dp205
+sS'sociable-labs'
+p206
+(dp207
+sS'xactly'
+p208
+(dp209
+g11
+(dp210
+S'Acquisitions'
+p211
+S'0'
+p212
+sS'Growth score'
+p213
+S'38'
+p214
+sS'Mindshare score'
+p215
+S'38'
+p216
+sS'Employees'
+p217
+S''
+p218
+sS'Last funding'
+p219
+S'NA'
+p220
+sS'Founded'
+p221
+g220
+sS'Location'
+p222
+g218
+sS'Total funding'
+p223
+S'Undisclosed'
+p224
+sS'Stage'
+p225
+S'No Known Funding'
+p226
+ssg31
+(lp227
+S'Human Resources Hr'
+p228
+assS'chidoanh'
+p229
+(dp230
+sS'iamnotbasic'
+p231
+(dp232
+sS'redbearded'
+p233
+(dp234
+sS'boogie'
+p235
+(dp236
+sS'wiziq'
+p237
+(dp238
+sS'usernl'
+p239
+(dp240
+sS'springrole'
+p241
+(dp242
+g11
+(dp243
+S'Acquisitions'
+p244
+S'0'
+p245
+sS'Growth score'
+p246
+S'-36'
+p247
+sS'Mindshare score'
+p248
+S'-21'
+p249
+sS'Employees'
+p250
+S'16'
+p251
+sS'Last funding'
+p252
+S'a year ago'
+p253
+sS'Founded'
+p254
+S'2014'
+p255
+sS'Location'
+p256
+S'Los Angeles'
+p257
+sS'Total funding'
+p258
+S'$250K'
+p259
+sS'Stage'
+p260
+S'Pre-Series A'
+p261
+ssg31
+(lp262
+S'B2B'
+p263
+aS'Career / Job Search'
+p264
+aS'Human Resources Hr'
+p265
+assS'seozeo'
+p266
+(dp267
+sS'peak-seven'
+p268
+(dp269
+sS'hykso'
+p270
+(dp271
+sS'nectar-desk'
+p272
+(dp273
+sS'le-ide-marketing-digital'
+p274
+(dp275
+sS'clearbit'
+p276
+(dp277
+g11
+(dp278
+S'Acquisitions'
+p279
+S'0'
+p280
+sS'Growth score'
+p281
+S'605'
+p282
+sS'Mindshare score'
+p283
+S'581'
+p284
+sS'Employees'
+p285
+S'11'
+p286
+sS'Last funding'
+p287
+S'2 years ago'
+p288
+sS'Founded'
+p289
+S'2014'
+p290
+sS'Location'
+p291
+S'Bay Area'
+p292
+sS'Total funding'
+p293
+S'$2M'
+p294
+sS'Stage'
+p295
+S'Pre-Series A'
+p296
+ssg31
+(lp297
+S'B2B'
+p298
+aS'SaaS'
+p299
+aS'Enterprise Software'
+p300
+aS'Software Development'
+p301
+assS'automated-pet-care-products'
+p302
+(dp303
+sS'tripping'
+p304
+(dp305
+g11
+(dp306
+S'Acquisitions'
+p307
+S'0'
+p308
+sS'Growth score'
+p309
+S'268'
+p310
+sS'Mindshare score'
+p311
+S'172'
+p312
+sS'Employees'
+p313
+S'50'
+p314
+sS'Last funding'
+p315
+S'a year ago'
+p316
+sS'Founded'
+p317
+S'2010'
+p318
+sS'Location'
+p319
+S'Bay Area'
+p320
+sS'Total funding'
+p321
+S'$17M'
+p322
+sS'Stage'
+p323
+S'Series B'
+p324
+ssg31
+(lp325
+S'B2C'
+p326
+aS'Marketplace'
+p327
+aS'E-Commerce'
+p328
+aS'Hospitality'
+p329
+aS'Real Estate'
+p330
+aS'Travel'
+p331
+assS'mohiomap'
+p332
+(dp333
+sS'sellsy'
+p334
+(dp335
+g11
+(dp336
+S'Acquisitions'
+p337
+S'0'
+p338
+sS'Growth score'
+p339
+S'344'
+p340
+sS'Mindshare score'
+p341
+S'308'
+p342
+sS'Employees'
+p343
+S'31'
+p344
+sS'Last funding'
+p345
+S'3 years ago'
+p346
+sS'Founded'
+p347
+S'2009'
+p348
+sS'Location'
+p349
+S'La Rochelle'
+p350
+sS'Total funding'
+p351
+S'Undisclosed'
+p352
+sS'Stage'
+p353
+S'Series A'
+p354
+ssg31
+(lp355
+S'B2B'
+p356
+aS'SaaS'
+p357
+aS'Enterprise Software'
+p358
+assS'teamgantt'
+p359
+(dp360
+g11
+(dp361
+S'Acquisitions'
+p362
+S'0'
+p363
+sS'Growth score'
+p364
+S'224'
+p365
+sS'Mindshare score'
+p366
+S'224'
+p367
+sS'Employees'
+p368
+g218
+sS'Last funding'
+p369
+g220
+sS'Founded'
+p370
+S'2009'
+p371
+sS'Location'
+p372
+S'Baltimore'
+p373
+sS'Total funding'
+p374
+S'Undisclosed'
+p375
+sS'Stage'
+p376
+S'No Known Funding'
+p377
+ssg31
+(lp378
+S'B2B'
+p379
+aS'Human Resources Hr'
+p380
+assS'providertrust'
+p381
+(dp382
+sS'airbrake'
+p383
+(dp384
+sS'wandera'
+p385
+(dp386
+sS'matchnode'
+p387
+(dp388
+sS'payscape-advisors'
+p389
+(dp390
+sS'bonfire-1'
+p391
+(dp392
+sS'planet-ride'
+p393
+(dp394
+sS'graphium-health'
+p395
+(dp396
+sS'sendbloom'
+p397
+(dp398
+sS'superpedestrian'
+p399
+(dp400
+sS'feeln-1'
+p401
+(dp402
+sS'15five'
+p403
+(dp404
+g11
+(dp405
+S'Acquisitions'
+p406
+S'0'
+p407
+sS'Growth score'
+p408
+S'255'
+p409
+sS'Mindshare score'
+p410
+S'251'
+p411
+sS'Employees'
+p412
+S'17'
+p413
+sS'Last funding'
+p414
+S'2 years ago'
+p415
+sS'Founded'
+p416
+S'2011'
+p417
+sS'Location'
+p418
+S'Bay Area'
+p419
+sS'Total funding'
+p420
+S'$3M'
+p421
+sS'Stage'
+p422
+S'Pre-Series A'
+p423
+ssg31
+(lp424
+S'B2B'
+p425
+aS'Career / Job Search'
+p426
+aS'Enterprise Software'
+p427
+aS'Human Resources'
+p428
+aS'Human Resources Hr'
+p429
+assS'truefire'
+p430
+(dp431
+sS'taskfeed'
+p432
+(dp433
+sS'uxcam'
+p434
+(dp435
+sS'clicktime'
+p436
+(dp437
+sS'fitsme'
+p438
+(dp439
+sS'plivo'
+p440
+(dp441
+sS'accel-partners'
+p442
+(dp443
+sS'inventables'
+p444
+(dp445
+g11
+(dp446
+S'Acquisitions'
+p447
+S'0'
+p448
+sS'Growth score'
+p449
+S'429'
+p450
+sS'Mindshare score'
+p451
+S'389'
+p452
+sS'Employees'
+p453
+S'29'
+p454
+sS'Last funding'
+p455
+S'a year ago'
+p456
+sS'Founded'
+p457
+S'2002'
+p458
+sS'Location'
+p459
+S'Chicago'
+p460
+sS'Total funding'
+p461
+S'$10M'
+p462
+sS'Stage'
+p463
+S'Series B'
+p464
+ssg31
+(lp465
+S'B2B'
+p466
+aS'B2C'
+p467
+aS'Marketplace'
+p468
+aS'E-Commerce'
+p469
+aS'Hardware'
+p470
+assS'moosend'
+p471
+(dp472
+sS'jixee'
+p473
+(dp474
+sS'30acres'
+p475
+(dp476
+sS'dribble'
+p477
+(dp478
+sS'salesforce'
+p479
+(dp480
+g11
+(dp481
+S'Acquisitions'
+p482
+S'41'
+p483
+sS'Growth score'
+p484
+S'15,486'
+p485
+sS'Mindshare score'
+p486
+S'486'
+p487
+sS'Employees'
+p488
+S'21,317'
+p489
+sS'Last funding'
+p490
+S'17 years ago'
+p491
+sS'Founded'
+p492
+S'1999'
+p493
+sS'Location'
+p494
+S'Bay Area'
+p495
+sS'Total funding'
+p496
+S'$21M'
+p497
+sS'Stage'
+p498
+S'Public'
+p499
+ssg31
+(lp500
+S'B2B'
+p501
+aS'SaaS'
+p502
+aS'Analytics'
+p503
+aS'Cloud Computing'
+p504
+aS'Enterprise Software'
+p505
+aS'Human Resources Hr'
+p506
+assS'pingboard'
+p507
+(dp508
+sS'sharethrough'
+p509
+(dp510
+g11
+(dp511
+S'Acquisitions'
+p512
+S'1'
+p513
+sS'Growth score'
+p514
+S'478'
+p515
+sS'Mindshare score'
+p516
+S'341'
+p517
+sS'Employees'
+p518
+S'185'
+p519
+sS'Last funding'
+p520
+S'2 years ago'
+p521
+sS'Founded'
+p522
+S'2008'
+p523
+sS'Location'
+p524
+S'Bay Area'
+p525
+sS'Total funding'
+p526
+S'$28M'
+p527
+sS'Stage'
+p528
+S'Late'
+p529
+ssg31
+(lp530
+S'Advertising'
+p531
+aS'B2B'
+p532
+aS'Advertising'
+p533
+aS'Enterprise Software'
+p534
+aS'Marketing'
+p535
+aS'Mobile'
+p536
+assS'amplitude'
+p537
+I0
+sS'3q-digital'
+p538
+(dp539
+sS'digify'
+p540
+(dp541
+sS'sana-commerce'
+p542
+(dp543
+sS'education-elements'
+p544
+(dp545
+sS'timeion'
+p546
+(dp547
+g11
+(dp548
+S'Acquisitions'
+p549
+S'0'
+p550
+sS'Growth score'
+p551
+S'97'
+p552
+sS'Mindshare score'
+p553
+S'97'
+p554
+sS'Employees'
+p555
+g218
+sS'Last funding'
+p556
+g220
+sS'Founded'
+p557
+g220
+sS'Location'
+p558
+S'Warsaw'
+p559
+sS'Total funding'
+p560
+S'Undisclosed'
+p561
+sS'Stage'
+p562
+S'No Known Funding'
+p563
+ssg31
+(lp564
+S'Mobile'
+p565
+assS'dreamit-ventures'
+p566
+(dp567
+sS'inbep'
+p568
+(dp569
+sS'talkdesk'
+p570
+(dp571
+g11
+(dp572
+S'Acquisitions'
+p573
+S'0'
+p574
+sS'Growth score'
+p575
+S'711'
+p576
+sS'Mindshare score'
+p577
+S'348'
+p578
+sS'Employees'
+p579
+S'197'
+p580
+sS'Last funding'
+p581
+S'a year ago'
+p582
+sS'Founded'
+p583
+S'2011'
+p584
+sS'Location'
+p585
+S'Bay Area'
+p586
+sS'Total funding'
+p587
+S'$24M'
+p588
+sS'Stage'
+p589
+S'Series A'
+p590
+ssg31
+(lp591
+S'B2B'
+p592
+aS'SaaS'
+p593
+aS'Customer Support'
+p594
+aS'Enterprise Software'
+p595
+assS'jobbatical'
+p596
+(dp597
+sS'the-jar-group'
+p598
+(dp599
+sS'paydock'
+p600
+(dp601
+sS'iwerx-advertising'
+p602
+(dp603
+sS'boon'
+p604
+(dp605
+sS'magazinescom'
+p606
+(dp607
+sS'tenmax-ad-tech-lab'
+p608
+(dp609
+sS'koombea'
+p610
+(dp611
+g11
+(dp612
+S'Acquisitions'
+p613
+S'0'
+p614
+sS'Growth score'
+p615
+S'32'
+p616
+sS'Mindshare score'
+p617
+S'32'
+p618
+sS'Employees'
+p619
+S'89'
+p620
+sS'Last funding'
+p621
+g220
+sS'Founded'
+p622
+S'2007'
+p623
+sS'Location'
+p624
+S'New York'
+p625
+sS'Total funding'
+p626
+S'Undisclosed'
+p627
+sS'Stage'
+p628
+S'No Known Funding'
+p629
+ssg31
+(lp630
+S'B2B'
+p631
+aS'Consulting'
+p632
+assS'thelions'
+p633
+(dp634
+sS'compstak'
+p635
+(dp636
+g11
+(dp637
+S'Acquisitions'
+p638
+S'0'
+p639
+sS'Growth score'
+p640
+S'151'
+p641
+sS'Mindshare score'
+p642
+S'125'
+p643
+sS'Employees'
+p644
+S'49'
+p645
+sS'Last funding'
+p646
+S'2 years ago'
+p647
+sS'Founded'
+p648
+S'2011'
+p649
+sS'Location'
+p650
+S'New York'
+p651
+sS'Total funding'
+p652
+S'$5M'
+p653
+sS'Stage'
+p654
+S'Series A'
+p655
+ssg31
+(lp656
+S'B2B'
+p657
+aS'Marketplace'
+p658
+aS'Enterprise Software'
+p659
+aS'Finance'
+p660
+aS'Real Estate'
+p661
+assS'can-capital'
+p662
+(dp663
+sS'izenda'
+p664
+(dp665
+sS'hiree'
+p666
+(dp667
+sS'pentaho'
+p668
+(dp669
+g11
+(dp670
+S'Acquisitions'
+p671
+S'0'
+p672
+sS'Growth score'
+p673
+S'396'
+p674
+sS'Mindshare score'
+p675
+S'221'
+p676
+sS'Employees'
+p677
+S'315'
+p678
+sS'Last funding'
+p679
+S'4 years ago'
+p680
+sS'Founded'
+p681
+S'2004'
+p682
+sS'Location'
+p683
+S'Bay Area'
+p684
+sS'Total funding'
+p685
+S'$65M'
+p686
+sS'Stage'
+p687
+S'Acquired'
+p688
+ssg31
+(lp689
+S'B2B'
+p690
+aS'Direct Sales'
+p691
+aS'SaaS'
+p692
+aS'Analytics'
+p693
+aS'Finance'
+p694
+aS'Government'
+p695
+aS'Healthcare'
+p696
+aS'Retail'
+p697
+aS'Software Development'
+p698
+assS'hifrank'
+p699
+(dp700
+sS'course-report'
+p701
+(dp702
+sS'ou'
+p703
+(dp704
+sS'the-raiders'
+p705
+(dp706
+sS'foot-cardigan'
+p707
+(dp708
+sS'crowdtwist'
+p709
+(dp710
+sS'remix-second-hand'
+p711
+(dp712
+sS'uncdigital'
+p713
+(dp714
+sS'lima-1'
+p715
+(dp716
+sS'cotopaxi'
+p717
+(dp718
+g11
+(dp719
+S'Acquisitions'
+p720
+S'0'
+p721
+sS'Growth score'
+p722
+S'606'
+p723
+sS'Mindshare score'
+p724
+S'565'
+p725
+sS'Employees'
+p726
+S'37'
+p727
+sS'Last funding'
+p728
+S'a year ago'
+p729
+sS'Founded'
+p730
+S'2014'
+p731
+sS'Location'
+p732
+S'Salt Lake City'
+p733
+sS'Total funding'
+p734
+S'$7M'
+p735
+sS'Stage'
+p736
+S'Series A'
+p737
+ssg31
+(lp738
+S'B2C'
+p739
+aS'E-Commerce'
+p740
+assS'fastspring'
+p741
+(dp742
+sS'clarus-commerce'
+p743
+(dp744
+sS'yottaa'
+p745
+(dp746
+sS'microsoft'
+p747
+(dp748
+g11
+(dp749
+S'Acquisitions'
+p750
+S'133'
+p751
+sS'Growth score'
+p752
+S'559'
+p753
+sS'Mindshare score'
+p754
+S'559'
+p755
+sS'Employees'
+p756
+S'130,494'
+p757
+sS'Last funding'
+p758
+g220
+sS'Founded'
+p759
+S'1975'
+p760
+sS'Location'
+p761
+S'Seattle'
+p762
+sS'Total funding'
+p763
+S'Undisclosed'
+p764
+sS'Stage'
+p765
+S'Public'
+p766
+ssg31
+(lp767
+S'B2B'
+p768
+aS'B2C'
+p769
+aS'Cloud Computing'
+p770
+aS'Enterprise Software'
+p771
+aS'Gaming'
+p772
+aS'Hardware'
+p773
+aS'Network / Hosting / Infrastructure'
+p774
+aS'Security'
+p775
+aS'Software Development'
+p776
+ass.
