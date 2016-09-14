@@ -6,10 +6,21 @@ import numpy as np
 def get_comp(request):
  data = request.json()
  companies = data['content']['companies']
+ url = 'https://siftery.com/company/'
  f = open('abc.txt','a')
+ g = open('domain.txt','a')
+ count = 0 
  for values in companies:
   f.write(str(values)+'\n')
+  r = requests.post(url + values,'html5lib')
+  domain = r.json()
+  #print (str(domain['response']['company']['domain']).replace('http://www.','')+'\n')
+  g.write(str(domain['response']['company']['domain']).replace('http://www.','')+'\n')
+  count = count + 1 
+  print count
+  print str(domain['response']['company']['domain']).replace('http://www.','')
  f.close()
+ g.close()
 
 if __name__ == '__main__':
  credentials = {
@@ -18,19 +29,22 @@ if __name__ == '__main__':
  }
  s = requests.Session()
  url = 'https://siftery.com/product-json/adroll?page='
+ '''
  if (9712%30>0):
   num = range(1,((9712/30) + 1))
   print "here"
  else:
   num = range(1,9712/30)
- 
+ '''
  r = s.post('https://siftery.com/users/login', data=credentials)
  
- print(9712/30)
- print(np.size(num))
- print(num)
+ #print(9712/30)
+ #print(np.size(num))
+ #print(num)
+ num1 = range(1,5)
+ print num1
 # print url+str(num[0])
- for i in num:
+ for i in num1:
   r = s.post(url + str(i))
   
   

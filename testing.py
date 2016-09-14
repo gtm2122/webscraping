@@ -1,4 +1,4 @@
 from features import *
-
-print get_data('3q-digital')
-print get_data(variate('3q-digital'))
+print 'inbep.com.br'[-2]
+#print get_data('inbep.com.br')
+#print get_data(variate('3q-digital'))
