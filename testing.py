@@ -1,3 +1,4 @@
+import numpy
 from features import *
 print 'inbep.com.br'[-2]
 #print get_data('inbep.com.br')
